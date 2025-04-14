@@ -6,7 +6,7 @@ It performs **simultaneous classification and segmentation** using a shared Dens
 
 ---
 
-## 🚀 Overview
+## Overview
 
 We train a model to:
 - 🏷️ **Classify** cardiac condition (5-class classification)
